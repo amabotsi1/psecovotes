@@ -1,0 +1,3 @@
+Voter auto-logout error occurred
+Next button missing for voter ID 1234
+Vote tally mismatch detected in Live Results
